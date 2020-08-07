@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "LINK_Online_Learning",
+    "name": "LINK",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -56,7 +56,7 @@
     "uniqCompNum": 48,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/mbr-122x110-1.jpg",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -69,7 +69,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "LINK Login Page",
+        "title": "Welcome to LINK",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
